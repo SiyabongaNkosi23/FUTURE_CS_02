@@ -1,0 +1,25 @@
+PHISHING EMAIL ANALYSIS
+
+Email 1:
+- Suspicious sender address
+- Urgent language used
+- Suspicious links detected
+- Requests sensitive information
+
+Risk Level: High
+
+Email 2:
+- Grammar mistakes
+- Fake login request
+- Threatening language
+- Suspicious attachment
+
+Risk Level: High
+
+Legitimate Email:
+- Trusted sender
+- Professional formatting
+- No suspicious links
+- No urgent threats
+
+Risk Level: Safe
